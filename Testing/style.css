@@ -1,0 +1,52 @@
+    body {
+      background: #111;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 0;
+      margin: 0;
+    }
+
+    .virsraksts {
+      background: #4caf50;
+      padding: 30px;
+      margin: 0;
+      width: 100%;
+      box-sizing: border-box;
+      border-radius: 10px;
+    }
+
+    input {
+      padding: 10px;
+      font-size: 18px;
+      width: 250px;
+      border-radius: 8px;
+      border: none;
+      margin-bottom: 10px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      background: #4caf50;
+      color: white;
+    }
+
+    .result-box {
+      margin-top: 20px;
+      font-size: 20px;
+      white-space: pre-line;
+    }
+
+    .Pareizi {
+      color: #4caf50;
+      font-weight: bold;
+    }
+
+    .Nepareizi {
+      color: #ff4444;
+      font-weight: bold;
+    }
